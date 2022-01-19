@@ -23,20 +23,3 @@ void quick_sort(int q[], int l ,int r){
 //归并排序算法
 void 
 ```
-
-## b进制转十进制常用算法(进制转化问题)
-
-```c++
-//b进制数转化为十进制数
-int get(string s, int b){
-    int res = 0;
-    //秦九韶算法
-    for(auto c: s)
-        res = res * b + c - '0';
-    return res;
-}
-```
-
-## 数据范围反推时间复杂度
-
-![image-20220112201121020](https://s2.loli.net/2022/01/12/V9dpZ1iFQfT3rhL.png)
