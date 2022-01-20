@@ -3,9 +3,9 @@
 
 # **SAI - Node**
 
-本文档是作者基于docsify创建
-旨在记录个人在学习上的一些问题
-如果本文有帮助到您,请给予支持!
+- 本文档是作者基于docsify创建
+- 旨在记录个人在学习上的一些问题
+- 如果本文有帮助到您,请给予支持!
 
 
 [![](https://badgen.net/github/stars/DragonSAIz/Node)](https://github.com/DragonSAIz/Node)
