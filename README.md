@@ -9,11 +9,14 @@
 
 # 所有者
 
-**SAI,一名编程蒻稽,渴望抱住大佬的大腿。**
+**SAI**
+**一名编程蒻稽,渴望抱住大佬的大腿。**
 
-    邮箱: 3046157606@qq.com
-    - github: [https://github.com/DragonSAIz](https://github.com/DragonSAIz)
-    - bilibili: [https://space.bilibili.com/689993209](https://space.bilibili.com/689993209)
+> 邮箱: 3046157606@qq.com
+
+> github: [https://github.com/DragonSAIz](https://github.com/DragonSAIz)
+
+> bilibili: [https://space.bilibili.com/689993209](https://space.bilibili.com/689993209)
 
 # 项目
 
