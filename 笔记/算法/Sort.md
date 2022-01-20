@@ -1,6 +1,6 @@
 ## 快速排序
 
-```c++
+```cpp
 //快速排序算法
 void quick_sort(int q[], int l ,int r){
     if( l >= r) return;	//如果只有一位或者没有直接退出
@@ -19,7 +19,7 @@ void quick_sort(int q[], int l ,int r){
 
 ## 归并排序
 
-```c++
+```cpp
 //归并排序算法
 void 
 ```
