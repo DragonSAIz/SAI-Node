@@ -14,9 +14,9 @@
 
 > 邮箱: 3046157606@qq.com
 
-> github: [https://github.com/DragonSAIz](https://github.com/DragonSAIz)
+> Github: [DragonSAIz](https://github.com/DragonSAIz)
 
-> bilibili: [https://space.bilibili.com/689993209](https://space.bilibili.com/689993209)
+> BiliBili: [ドラゴンSAI](https://space.bilibili.com/689993209)
 
 # 项目
 
