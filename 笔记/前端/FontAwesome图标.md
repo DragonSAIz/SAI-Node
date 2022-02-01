@@ -7,10 +7,10 @@ Font Awesome 字体提供可缩放矢量图标,它可以被定制大小、颜色
 要使用Font Awesome图标，要在HTML页面的head中添加以下行：
 
 ```html
-<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.0.0-beta3/css/all.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 ```
 
-该CDN可在<a href="https://www.bootcdn.cn/font-awesome/" target="_blank" >https://www.bootcdn.cn/font-awesome/</a>获取更新
+该CDN可在<a href="https://cdnjs.com/libraries/font-awesome" target="_blank" >https://cdnjs.com/libraries/font-awesome</a>获取更新
 
 在你需要加入该图标的位置添加以下代码：
 
