@@ -6,5 +6,8 @@
         - [排序](笔记/算法/Sort.md)
     - C++
         - [运算符](笔记/C++/常用运算符.md)
+        - [STL容器](笔记/C++/STL容器/)
+            - [vector容器](vector容器.md)
+            - [deque容器](deque双端数组.md)
     - 前端
         - [FontAwesome图标](笔记/前端/FontAwesome图标.md)
