@@ -7,7 +7,12 @@
     - C++
         - [运算符](笔记/C++/常用运算符.md)
         - [STL容器](笔记/C++/STL容器/)
-            - [vector容器](vector容器.md)
-            - [deque容器](deque双端数组.md)
+            - [vector容器](笔记/C++/STL容器/vector容器.md)
+            - [set容器](笔记/C++/STL容器/set容器.md)
+            - [map容器](笔记/C++/STL容器/map容器.md)
+            - [deque容器](笔记/C++/STL容器/deque双端数组.md)
+            - [stack栈模型](笔记/C++/STL容器/stack栈模型.md)
+            - [queue队列模型](笔记/C++/STL容器/queue队列模型.md)
+            - [list链表模型](笔记/C++/STL容器/list链表模型.md)
     - 前端
         - [FontAwesome图标](笔记/前端/FontAwesome图标.md)
