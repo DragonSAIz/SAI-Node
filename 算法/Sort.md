@@ -38,6 +38,8 @@ void merge_sort(int q[], int l, int r) {
 }
 ```
 
+## 整数二分
+
 ```cpp 
 //二分模板
 #include <iostream>
