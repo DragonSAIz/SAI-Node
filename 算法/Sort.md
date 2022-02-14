@@ -37,3 +37,48 @@ void merge_sort(int q[], int l, int r) {
     for(i = l, j = 0; i <= r; i++, j ++) q[i] = tmp[j];
 }
 ```
+
+```cpp 
+//二分模板
+#include <iostream>
+
+using namespace std;
+
+const int N = 100010; 
+
+int n, q;
+int t[N];
+
+int main() {
+    scanf("%d %d", &n, &q);
+    
+    for (int i = 0; i < n; i ++ ) scanf("%d", &t[i]);
+    
+    while (q -- ) {
+        int x;
+        scanf("%d", &x);
+        
+        int l = 0, r = n - 1;
+        while (l < r) {
+            int mid = l + r >> 1;
+            if(t[mid] >= x) r = mid;
+            else l = mid + 1;
+        }
+        
+        if(t[l] != x) cout << "-1 -1" << endl;
+        else {
+            cout << l << ' ';
+            
+            int l = 0, r = n - 1;
+            while (l < r) {
+                int mid = l + r + 1 >> 1;
+                if(t[mid] <= x) l = mid;
+                else r = mid - 1;
+            }
+            cout <<  l << endl;
+        }
+    }
+    return 0;
+}
+
+```
