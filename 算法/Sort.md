@@ -3,8 +3,8 @@
 ```cpp
 //快速排序算法
 void quick_sort(int q[], int l ,int r) {
-    if(l >= r) return;	//如果只有一位或者没有直接退出
-	//l + r >> 1等价于(l + r) / 2
+    if(l >= r) return;  //如果只有一位或者没有直接退出
+    //l + r >> 1等价于(l + r) / 2
     int x = q[l + r >> 1], i = l - 1; j = r + 1;
     while(i < j){
         do i++; while(q[i] < x);
@@ -40,7 +40,7 @@ void merge_sort(int q[], int l, int r) {
 
 ## 整数二分
 
-```cpp 
+```cpp
 //二分模板
 #include <iostream>
 
