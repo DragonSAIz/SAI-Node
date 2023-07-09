@@ -1,25 +1,25 @@
-# 介绍
-
-[![](https://badgen.net/github/stars/DragonSAIz/Node)](https://github.com/DragonSAIz/Node)
-[![](https://badgen.net/github/forks/DragonSAIz/Node)](https://github.com/DragonSAIz/Node)
-![](https://img.shields.io/badge/%E8%92%BB%E7%A8%BD-%E7%A8%8B%E5%BA%8F%E7%8C%BF-yellow)
-![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E5%88%92%E6%B0%B4%E5%B8%A6%E5%B8%88-brightgreen)
-
-大家好！欢迎各位的到来。本文档目前专注于记录个人在学习中的所得。
-
-# 所有者
-
-**SAI**
-**一名编程蒻稽,渴望抱住大佬的大腿。**
-
-> 邮箱: 3046157606@qq.com
-
-> Github: [DragonSAIz](https://github.com/DragonSAIz)
-
-> BiliBili: [ドラゴンSAI](https://space.bilibili.com/689993209)
-
-# 项目
-
-暂时没有拿得出手的项目(根本没有)
-
-# 赞助
+- [C++](C++/)
+  - [STL容器](C++/STL容器/)
+    - [deque](C++/STL容器/deque.md)
+    - [vector容器](C++/STL容器/vector容器.md)
+  - [常用运算符](C++/常用运算符.md)
+- [Untitled](Untitled.md)
+- [_coverpage](_coverpage.md)
+- [_navbar](_navbar.md)
+- [前端](前端/)
+  - [FontAwesome图标](前端/FontAwesome图标.md)
+- [学习Linux](学习Linux/)
+  - [CF食用指南](学习Linux/CF食用指南.md)
+  - [NAT VPS食用指南](学习Linux/NAT VPS食用指南.md)
+  - [VPS 更好的食用](学习Linux/VPS 更好的食用.md)
+- [算法](算法/)
+  - [Hash表](算法/Hash表.md)
+  - [KMP](算法/KMP.md)
+  - [Sort](算法/Sort.md)
+  - [Trie](算法/Trie.md)
+  - [堆](算法/堆.md)
+  - [复杂度反推](算法/复杂度反推.md)
+  - [并查集](算法/并查集.md)
+  - [栈与队列](算法/栈与队列.md)
+  - [进制转换](算法/进制转换.md)
+  - [链表与邻接表](算法/链表与邻接表.md)
